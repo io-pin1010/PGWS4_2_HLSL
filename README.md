@@ -4,6 +4,8 @@
 # 結果画像
 
 ![第2回の結果](???.png)
+<img width="818" height="508" alt="2594_20260424182116" src="https://github.com/io-pin1010/PGWS4_2_HLSL/blob/main/%E7%94%BB%E5%83%8F.png" />
+
 - 工夫した点：xxx
 
 # 進め方
